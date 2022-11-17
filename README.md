@@ -1,10 +1,5 @@
 # terraform ec2 cloudwatch
 
-## Pré requisitos
-
-* terraform
-* aws cli configurada
-
 ## Como usar?
 
 1. Ajuste variables.tf de acordo com o seu ambiente
